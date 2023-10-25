@@ -61,7 +61,8 @@ folder = {
     "zip": "Compressed Files",
     "rar": "Compressed Files",
     "jar": "Java Files",
-    "msi": "Installers"
+    "msi": "Installers",
+    "ini": "Shortcuts"
 }
 
 
